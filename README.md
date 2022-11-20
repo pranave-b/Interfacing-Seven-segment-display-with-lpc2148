@@ -1,6 +1,6 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	SV ROHITHKUMAR
+Name:	PRANAVE B
 
 Roll no 212221240040
 
