@@ -1,8 +1,8 @@
 # Ex. No. :08 --Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	Gunaseelan G
+Name:	SV ROHITHKUMAR
 
-Roll no 212221230031
+Roll no 212221240040
 
 ## Aim: 
 To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
